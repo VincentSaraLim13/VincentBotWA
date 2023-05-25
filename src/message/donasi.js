@@ -11,7 +11,7 @@ return `
 *Donasi*
 
   > Gopay : -
-  > Dana : -
+  > Dana : 0882-0163-86624
   > Ovo : -
   > Allpay : -
   > Saweria : -
