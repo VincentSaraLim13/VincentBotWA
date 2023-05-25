@@ -4,21 +4,21 @@ const chalk = require('chalk')
 
 //apikey
 // lolkey ( lolhuman : https://api.lolhuman.xyz )
-global.lolkey = 'ISI_DISINI_APIKEYNYA'
+global.lolkey = '4898bfc147d0acc046e56aa0'
 
 global.mode = false
 global.autodltt = false
 global.counttroli = 555999777
 global.typemenu = 'document'
-global.owner = ['628xxx'] //Masukin nomor mu
-global.ownernomer = "628xxx" //Masukin nomor mu
-global.premium = ['628xxx'] //Masukin nomor mu
-global.ownername = 'Ya, ini kasih namamu' //Masukin nama bot kamu
-global.botname = 'Ya, ini kasih nama bot mu' //Masukin nama bot kamu
-global.fakename = 'Ya, ini fake name' //Masukin nama mu
+global.owner = ['62882016386624'] //Masukin nomor mu
+global.ownernomer = "62882016386624" //Masukin nomor mu
+global.premium = ['62882016386624'] //Masukin nomor mu
+global.ownername = 'Vincent Sara Lim' //Masukin nama bot kamu
+global.botname = 'Titan Bot' //Masukin nama bot kamu
+global.fakename = 'Titan' //Masukin nama mu
 global.fakebody = 'Hubungi jika ingin sewabot' // Monggo kalau mau ganti
 global.packname = 'Sticker By' //Gakusah di ubah kalau mau di ubah Monggo 
-global.author = 'DhaniYo?' //Monggo kalau mau ubah
+global.author = 'Vincent Sara Lim' //Monggo kalau mau ubah
 global.sessionName = 'KamuNanya' //Gak usah di ubah
 global.jumlha = '999' //Gak usah di ubah
 global.jumhal = '100000000000000' //Gak usah di ubah
@@ -28,7 +28,7 @@ global.scmu = 'Sc?\nEmang mau buat apa?' //Monggo kalau mau ubah
 global.githubmu = 'https://github.com/namagithub' //Isi nama github mu
 global.ytmu = 'https://youtube.com/channel/UCcnWMxH0nUbArCCkqubUeHA' //Gak usah di ubah
 global.ytvmu = 'https://youtube.com/shorts/b_L5jlwrFRs?feature=share' //Gak usah di ubah
-global.linkbebas = 'https://chat.whatsapp.com/KREr2OmTDoP3nP2co1zeK2' //Terserah mau luh isi web apa mau github atau link group juga bisa
+global.linkbebas = 'https://instagram.com/vincent_sara13?igshid=ZGUzMzM3NWJiOQ==' //Terserah mau luh isi web apa mau github atau link group juga bisa
 global.imglink = 'https://telegra.ph/file/b5ac5b79fd044eb90bfd9.jpg' // isi dengan image link/foto link
 global.teksqr = {
 gopay: '_Ini kak Qr Gopay nya_',
