@@ -17,7 +17,7 @@ ppuser = 'https://telegra.ph/file/c2372ca2ab144d113b94e.jpg'
 try {
 ppgroup = await alfia.profilePictureUrl(anu.id, 'image')
 } catch {
-ppgroup = 'https://telegra.ph/file/c2372ca2ab144d113b94e.jpg'
+ppgroup = 'https://cdn.discordapp.com/attachments/1099564593979854890/1111301521326493816/photo.jpg'
 }
                 
 let buttons = [
